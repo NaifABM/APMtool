@@ -4,7 +4,7 @@
 timecheck=0
 #Point of this function is to start all the timers basically, set up the timing so that the info gathering is done correctly
 function initialize() {
-    #where we initialize things
+    #where we initialize thing
     timecheck=$SECONDS
  
     #thing for system processes i need:
